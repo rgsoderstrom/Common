@@ -54,6 +54,7 @@
   <ItemGroup>
     <Compile Include="Defines.cs" />
     <Compile Include="EventLog.cs" />
+    <Compile Include="NameValuePair.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
