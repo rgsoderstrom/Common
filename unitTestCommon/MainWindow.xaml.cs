@@ -35,7 +35,7 @@ namespace unitTestCommon
 
             try
             {
-                pairs.Add (new NameValuePair ("aaa", 222.333));
+                pairs.Add (new NameValuePair ("aaa", 123.456));
                 pairs.Add (new NameValuePair ("bbb", new Point (55, 66)));
                 pairs.Add (new NameValuePair ("ccc", true));
                 pairs.Add (new NameValuePair ("ddd", "another string"));
